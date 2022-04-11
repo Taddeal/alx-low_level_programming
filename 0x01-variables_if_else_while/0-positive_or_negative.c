@@ -3,7 +3,7 @@
 #include <stdlib.h>
 /**
 *main - entry
-* fghfgf
+*fghfgf
 *Return: always 0 
 */
 int main(void)
