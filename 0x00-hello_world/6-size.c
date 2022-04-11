@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
 *main - Entrey point
 *
@@ -6,10 +6,10 @@
 */
 int main(void)
 {
-ptintf("size of a char: %d bytes(s)\n", sizeof(char));
-ptintf("size of an int: %d bytes(s)\n", sizeof(int));
-ptintf("size of a long int: %d bytes(s)\n", sizeof(long int));
-ptintf("size of a long long int: %d bytes(s)\n", sizeof(lon long int));
-ptintf("size of a float: %d bytes(s)\n", sizeof(float));
+printf("size of a char: %d byte(s)\n", sizeof(char));
+printf("size of an int: %d byte(s)\n", sizeof(int));
+printf("size of a long int: %d byte(s)\n", sizeof(long int));
+printf("size of a long long int: %d byte(s)\n", sizeof(lon long int));
+printf("size of a float: %d byte(s)\n", sizeof(float));
 return (0);
 }
