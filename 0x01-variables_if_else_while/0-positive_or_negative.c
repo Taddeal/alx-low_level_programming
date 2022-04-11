@@ -3,8 +3,8 @@
 #include <stdlib.h>
 /**
 *main - entry
-*fghfgf
-*Return: always 0 
+*dfghj
+*Return: always 0
 */
 int main(void)
 {
