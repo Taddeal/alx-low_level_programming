@@ -3,7 +3,8 @@
 #include <stdlib.h>
 /**
 *main - entry
-*Return 0 program execution
+* fghfgf
+*Return: always 0 
 */
 int main(void)
 {
